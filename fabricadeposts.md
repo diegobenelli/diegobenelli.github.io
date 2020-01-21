@@ -2,7 +2,6 @@ ___
 
 ![Diego](https://github.com/diegobenelli/diegobenelli.github.io/blob/master/image002.jpg)
 
-
 # **Bem-Vindo a Fábrica de Posts!**
 ___
 
@@ -14,5 +13,5 @@ ___
 | Content Cell  | Content Cell  |Content Cell   | Content Cell  | Content Cell  |
 
 ___
-### h2 Heading
+## Heading
 ___
