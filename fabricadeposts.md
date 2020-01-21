@@ -1,13 +1,9 @@
-# **h1 Heading**
-**teste.**  
-teste.
 ___
-
 
 ![Diego](https://github.com/diegobenelli/diegobenelli.github.io/blob/master/image002.jpg)
 
-## h2 Heading
-
+# **h1 Heading**
+___
 
 | First Header  | Second Header | Third Header  | Fourth Header | Fifth Header |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
@@ -17,5 +13,5 @@ ___
 | Content Cell  | Content Cell  |Content Cell   | Content Cell  | Content Cell  |
 
 ___
-### h3 Heading
+### h2 Heading
 ___
