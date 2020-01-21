@@ -5,7 +5,7 @@ ___
 ## h2 Heading
 
 
-![Banana](http://cdn.osxdaily.com/wp-content/uploads/2013/07/image002.jg)
+![Diego](https://github.com/diegobenelli/diegobenelli.github.io/blob/master/image002.jpg)
 
 !(image002.jpg)  
 
