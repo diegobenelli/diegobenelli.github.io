@@ -4,7 +4,10 @@ teste.
 ___
 ## h2 Heading
 
-! [Foto diego](image002.jpg)  
+
+![Banana](http://cdn.osxdaily.com/wp-content/uploads/2013/07/image002.jg)
+
+!(image002.jpg)  
 
 | First Header  | Second Header | Third Header  | Fourth Header | Fifth Header |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
